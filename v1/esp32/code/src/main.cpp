@@ -1,3 +1,15 @@
+/*
+*
+* ESP32 IPScanner
+* Project to implement WIFI network IP Address Scanner in ESP32 boards
+* 
+* Tested with ESP Lolin32 board
+* Developed by Walid Amriou
+* Website: www.walidamriou.com
+* Email: contact@walidmariou.com 
+*
+*/
+
 #include <Arduino.h>
 #include <WiFi.h>
 #include <ESP32Ping.h>
