@@ -7,7 +7,12 @@ v1:  when running version 1 in "esp lolin32" board, it was so slow BUT the resul
 #### Tools of develpement
 1- PlatformIO IDE with Visual Studio Code  
 https://platformio.org  
-2- C++ and Arduino programming Language  
+2- C++ and Arduino programming Language
+
+#### Libraries used  
+1- ESP32Ping: Ping library for ESP32 Arduino core  
+https://github.com/marian-craciunescu/ESP32Ping
+
 
 #### LICENSE
 Mozilla Public License 2.0
