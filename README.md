@@ -9,5 +9,9 @@ v1:  when running version 1 in "esp lolin32" board, it was so slow BUT the resul
 https://platformio.org  
 2- C++ and Arduino programming Language  
 
+#### LICENSE
+Mozilla Public License 2.0
+
+
 
 
